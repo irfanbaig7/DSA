@@ -50,7 +50,7 @@ public class FindMaxValue {
 
     public static void main(String[] args) {
 
-        int[] arr = { 10, 20, 0, 0, 0, 0, 0, 0, 0, 66, 56 };    //if array are null
+        int[] arr = { 23, 45, 1, 2, 8, 19, -3, 16, -11, 28 };      //if array are null
         // int[] arr = { 10, 20, 86, 98, 75, 99, 36, 88, 95, 66, 56 };    
         // System.out.println(max(arr));
         System.out.println(maxRange(arr, 2, 8));
