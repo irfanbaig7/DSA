@@ -5,6 +5,7 @@ public class Main {
     // L1. Search In the Array return the index if item founded otherewise if item
     // not
     // founded retrun -1
+    
     // static int linearSearch(int[] arr, int target) {
     // if (arr.length == 0) {
     // return -1;
