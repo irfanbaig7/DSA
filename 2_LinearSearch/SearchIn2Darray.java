@@ -23,7 +23,7 @@ public class SearchIn2Darray {
                 { 68, 76 },
                 { 82, 43, 24, 78 }
         };
-        int target = 78;
+        int target = 64;
         int[] ans = search2dArray(arr, target); // format like this return value (row, col)
 
         System.out.println(Arrays.toString(ans));
