@@ -8,19 +8,19 @@ public class MultiDimational {
         // Scanner sc = new Scanner(System.in);
 
 
-        // int[][] arr = {
-        // { 1, 2, 3 },
-        // { 4, 5 },
-        // { 7, 8, 9, 12 }
+        int[][] arr = {
+        { 1, 2, 3 },
+        { 4, 5 },
+        { 7, 8, 9, 12 }
 
-        // };
+        };
         
-        // for (int[] row : arr) { 
-        //     for (int element : row) { 
-        //         System.out.print(element + " "); 
-        //     }
-        //     System.out.println(); 
-        // }
+        for (int[] row : arr) { 
+            for (int element : row) { 
+                System.out.print(element + " "); 
+            }
+            System.out.println(); 
+        }
        
 
 
