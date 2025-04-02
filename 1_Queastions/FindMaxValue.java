@@ -53,7 +53,7 @@ public class FindMaxValue {
         int[] arr = { 23, 45, 1, 2, 8, 19, -3, 16, -11, 28 };      //if array are null
         // int[] arr = { 10, 20, 86, 98, 75, 99, 36, 88, 95, 66, 56 };    
         // System.out.println(max(arr));
-        System.out.println(maxRange(arr, 2, 8));
+        System.out.println(maxRange(arr, 0, 8));
 
     }
 }
