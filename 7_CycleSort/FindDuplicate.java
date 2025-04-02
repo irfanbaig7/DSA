@@ -3,7 +3,7 @@
 public class FindDuplicate {
     public static void main(String[] args) {
 
-        int[] arr = {1, 3, 4, 5, 3, 6};
+        int[] arr = {1, 2, 3, 4, 5, 3, 6 };
         System.out.println(cycleSort(arr));;
 
     }
