@@ -42,7 +42,7 @@ public class MergeSorting {
             i++;
             k++;
         }
-        while (j < frist.length) {
+        while (j < second.length) {
             mix[k] = second[j];
             j++;
             k++;
