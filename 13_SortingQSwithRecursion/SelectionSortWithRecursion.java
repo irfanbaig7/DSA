@@ -16,7 +16,7 @@ public class SelectionSortWithRecursion {
         if (c < r) {
             if (arr[c] > arr[max]) {
                 selection(arr, r, c+1, c);
-            } else {+
+            } else {
                 selection(arr, r, c+1, max);
             }
         } else {
